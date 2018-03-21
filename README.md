@@ -13,3 +13,7 @@ APT模拟器是一个Windows批处理脚本，它使用一组工具和输出文�
 ## [knock](https://github.com/guelfoweb/knock)
 
 子域名收集工具，先检测dns是否存在域传送漏洞，接着字典爆破域名
+
+## [odat](https://github.com/quentinhardy/odat)
+
+一款开源的渗透测试工具，主要用于测试远端oracle数据库的安全性。
