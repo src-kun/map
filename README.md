@@ -17,3 +17,6 @@ APT模拟器是一个Windows批处理脚本，它使用一组工具和输出文�
 ## [odat](https://github.com/quentinhardy/odat)
 
 一款开源的渗透测试工具，主要用于测试远端oracle数据库的安全性。
+
+## [winpayloads](https://github.com/nccgroup/winpayloads)
+Winpayloads是一款Payload生成工具，它使用了metasploits meterpreter Shellcode，不仅能够将用户的IP地址以及相应端口注入到Shellcode之中，并使用ctypes编写一个可执行Shellcode的Python文件，而且还可以进行AES加密然后使用pyinstaller将其编译成Windows可执行文件。
