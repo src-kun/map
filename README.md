@@ -30,6 +30,6 @@ Winpayloads是一款Payload生成工具，它使用了metasploits meterpreter Sh
 
 这是一个.DS_Store文件泄漏利用脚本，它解析.DS_Store文件并递归地下载文件到本地。
 
-## [PyWeakPwdAudit](https://github.com/penoxcn/PyWeakPwdAudit）
+## [PyWeakPwdAudit](https://github.com/penoxcn/PyWeakPwdAudit)
 
 python编写的支持多协议登入爆破（ssh\smb\oracle...）,类hydra
