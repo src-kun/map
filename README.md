@@ -25,3 +25,7 @@ Winpayloads是一款Payload生成工具，它使用了metasploits meterpreter Sh
 ## [DVHMA](https://github.com/logicalhacking/DVHMA)
 
 这个APP的开发目的是研究混合APP开发过程中的安全问题，例如安全地使用Apache Cordova或SAP Kapsel。目前，DVHMA的主要关注点是深入了解利用JavaScript到Java bridge的注入漏洞。
+
+## [ds_store_exp](https://github.com/lijiejie/ds_store_exp)
+
+这是一个.DS_Store文件泄漏利用脚本，它解析.DS_Store文件并递归地下载文件到本地。
