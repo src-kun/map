@@ -37,3 +37,7 @@ python编写的支持多协议登入爆破（ssh\smb\oracle...）,类hydra
 ## [CVE-2018-1270](https://github.com/CaledoniaProject/CVE-2018-1270)
 
 CVE-2018-1270 - Spring messaging Spel 漏洞检测脚本 
+
+## [Understanding and Evading Get-InjectedThread](https://blog.xpnsec.com/undersanding-and-evading-get-injectedthread/)
+
+dll 注入
