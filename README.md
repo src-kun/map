@@ -33,3 +33,7 @@ Winpayloads是一款Payload生成工具，它使用了metasploits meterpreter Sh
 ## [PyWeakPwdAudit](https://github.com/penoxcn/PyWeakPwdAudit)
 
 python编写的支持多协议登入爆破（ssh\smb\oracle...）,类hydra
+
+## [CVE-2018-1270](https://github.com/penoxcn/PyWeakPwdAudit)
+
+CVE-2018-1270 - Spring messaging Spel 漏洞检测脚本
