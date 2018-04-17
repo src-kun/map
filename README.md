@@ -41,3 +41,7 @@ CVE-2018-1270 - Spring messaging Spel 漏洞检测脚本
 ## [Understanding and Evading Get-InjectedThread](https://blog.xpnsec.com/undersanding-and-evading-get-injectedthread/)
 
 dll 注入
+
+## [create ap](https://github.com/oblique/create_ap)
+
+树莓派快速创建热点
