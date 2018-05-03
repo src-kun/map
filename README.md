@@ -45,3 +45,6 @@ dll 注入
 ## [create ap](https://github.com/oblique/create_ap)
 
 树莓派快速创建热点
+
+## [privdns]（https://github.com/mhelwig/privdns）
+收集dns反向解析信息
