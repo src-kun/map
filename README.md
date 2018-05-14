@@ -56,4 +56,4 @@ dll 注入
 汽车安全项目
 
 ## [nvdcve](https://github.com/olbat/nvdcve)
-cve json列表
+所有json格式cve信息列表
