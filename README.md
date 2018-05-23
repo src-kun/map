@@ -63,3 +63,8 @@ ssh 蜜罐，记录ssh爆破密码
 
 ## [t-pot](https://github.com/dtag-dev-sec/tpotce)
 多蜜罐平台 t-pot
+
+## [t-pot-autoinstall](https://github.com/dtag-dev-sec/t-pot-autoinstall)
+## [t-pot-autoinstall](https://github.com/n3uz/t-pot-autoinstall)
+t-pot 快速安装脚本吗
+
