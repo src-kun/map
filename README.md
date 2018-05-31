@@ -68,3 +68,6 @@ ssh 蜜罐，记录ssh爆破密码
 ## [t-pot-autoinstall](https://github.com/n3uz/t-pot-autoinstall)
 t-pot 快速安装脚本吗
 
+## [AutoLocalPrivilegeEscalation](https://github.com/ngalongc/AutoLocalPrivilegeEscalation)
+linux 自动提权脚本
+
