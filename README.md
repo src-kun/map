@@ -80,5 +80,3 @@ ssh/telnet 蜜罐
 
 ## [mhn](https://github.com/threatstream/mhn)
 mhn密网
-https://github.com/threatstream/mhn
-
