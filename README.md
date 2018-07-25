@@ -86,3 +86,7 @@ mhn密网
 
 ## [Seth](https://github.com/SySS-Research/Seth)
 rdp协议中间人劫持
+
+## [splash](https://github.com/scrapinghub/splash)
+动态解析带有js的html页面
+
