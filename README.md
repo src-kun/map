@@ -77,7 +77,6 @@ linux 自动提权脚本
 ## [cowrie](https://github.com/micheloosterhof/cowrie)
 ssh/telnet 蜜罐
 
-
 ## [mhn](https://github.com/threatstream/mhn)
 mhn密网
 
@@ -89,7 +88,6 @@ rdp协议中间人劫持
 
 ## [splash](https://github.com/scrapinghub/splash)
 动态解析带有js的html页面
-
 
 ## [sslstrip](https://github.com/moxie0/sslstrip)
 ssl 中间人攻击
