@@ -103,3 +103,8 @@ git泄露利用工具
 
 ## [bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data)
 hackerone 赏金信息
+
+
+## [xxe](https://hackerone.com/reports/334488)
+xxe 报告
+
