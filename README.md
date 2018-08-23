@@ -110,3 +110,5 @@ xxe 报告
 ## [subdomain-takeove](https://0xpatrik.com/subdomain-takeover-basics/)
 子域名劫持
 
+## [bug-bounty-reference](https://github.com/src-kun/bug-bounty-reference)
+赏金猎人bug参考
