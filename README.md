@@ -121,3 +121,6 @@ linux 马
 
 ## [penetration](https://github.com/w1109790800/penetration)
 超全面的渗透资料
+
+## [face_recognition](https://github.com/ageitgey/face_recognition#face-recognition)
+人脸识别
