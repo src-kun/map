@@ -124,3 +124,6 @@ linux 马
 
 ## [face_recognition](https://github.com/ageitgey/face_recognition#face-recognition)
 人脸识别
+
+## [speech_recognition](https://github.com/Uberi/speech_recognition)
+语音识别
