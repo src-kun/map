@@ -127,3 +127,6 @@ linux 马
 
 ## [speech_recognition](https://github.com/Uberi/speech_recognition)
 语音识别
+
+## [pistreaming](https://github.com/waveform80/pistreaming)
+web页面显示实时摄像头视频
