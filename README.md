@@ -133,3 +133,6 @@ web页面显示实时摄像头视频
 
 ## [faceID_beta](https://github.com/normandipalo/faceID_beta)
 [python 模拟Face ID 人脸识别](https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d)
+
+[SecLists](https://github.com/danielmiessler/SecLists)
+脆弱性文件/密码
