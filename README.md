@@ -136,3 +136,6 @@ web页面显示实时摄像头视频
 
 ## [SecLists](https://github.com/danielmiessler/SecLists)
 脆弱的文件名/密码字典
+
+## [pydictor](https://github.com/LandGrey/pydictor)
+字典生成
