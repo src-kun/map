@@ -139,3 +139,6 @@ web页面显示实时摄像头视频
 
 ## [pydictor](https://github.com/LandGrey/pydictor)
 字典生成
+
+## [pyfiglet](https://github.com/pwaller/pyfiglet)
+python 字符炫酷生成
