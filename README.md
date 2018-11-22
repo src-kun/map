@@ -135,7 +135,8 @@ web页面显示实时摄像头视频
 [python 模拟Face ID 人脸识别](https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d)
 
 ## [SecLists](https://github.com/danielmiessler/SecLists)
-脆弱的文件名/密码字典
+## [payloads](https://github.com/foospidy/payloads)
+payloads/密码字典
 
 ## [pydictor](https://github.com/LandGrey/pydictor)
 字典生成
