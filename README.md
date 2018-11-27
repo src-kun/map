@@ -143,3 +143,6 @@ payloads/密码字典
 
 ## [pyfiglet](https://github.com/pwaller/pyfiglet)
 python 字符炫酷生成
+
+## [xss payloads](https://github.com/swisskyrepo/PayloadsAllTheThings)
+xss payloads
