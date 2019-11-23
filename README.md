@@ -153,9 +153,13 @@ xss payloads
 ## [AttackDetection](https://github.com/ptresearch/AttackDetection)
 snort 规则
 
-
 ## [HP-Audit-Labs](https://github.com/hongriSec/PHP-Audit-Labs)
 漏洞结合代码审计
 
 ## [爆破字典](https://github.com/duyetdev/bruteforce-database)
 爆破字典
+
+
+## [web目录爆破](https://github.com/Nekmo/dirhunt)
+web目录爆破
+
